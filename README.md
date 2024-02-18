@@ -1,4 +1,5 @@
-### Hi there 👋
+## 신입 백엔드 개발자, 이서경 입니다.
+
 
 <!--
 **SeoKyeongLee/SeoKyeongLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
