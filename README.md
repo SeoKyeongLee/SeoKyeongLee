@@ -1,5 +1,5 @@
 <div align=center>
-## <center>신입 백엔드 개발자, 이서경 입니다.</center>
+<h2>신입 백엔드 개발자, 이서경 입니다.</h2>
 </div>
 
 
