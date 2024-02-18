@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=100&section=header&text=Hello!%20I'm%20SeoKyeong&fontSize=45" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9CACC,100:8DA4D0&height=100&section=header&text=Hello!%20I'm%20SeoKyeong&fontSize=45" /></div>
 <div align=center>
 <h2>신입 백엔드 개발자, 이서경 입니다.</h2>
 </div>
