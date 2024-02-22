@@ -5,7 +5,7 @@
 </div>
 <h3>Contact Me</h3>
 ✉️ seoia1029@hanmail.net<br>
-🖥️ [개발 Notion](https://www.notion.so/c41fdae24aa04979a055302ab590d1fe?pvs=21)
+🖥️ [개발 Notion] https://www.notion.so/c41fdae24aa04979a055302ab590d1fe?pvs=21 
 
 <h2></h2>
 
