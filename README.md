@@ -2,10 +2,13 @@
 <h3>신입 백엔드 개발자, 이서경 입니다.</h3>
 
 <h5>🌟 Backend Developer</h5>
-
-
-  
 </div>
+<h5>Contact Me</h5>
+✉️ seoia1029@hanmail.net
+
+👨‍💻 Github https://github.com/SeoKyeongLee
+
+🖥️ [개발 Notion](https://www.notion.so/c41fdae24aa04979a055302ab590d1fe?pvs=21)
 
 
 
