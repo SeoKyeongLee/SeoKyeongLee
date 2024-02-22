@@ -4,7 +4,7 @@
 <h3>🌟 Backend Developer</h3>
 </div>
 <h3>Contact Me</h3>
-✉️ seoia1029@hanmail.net
+✉️ seoia1029@hanmail.net<br>
 🖥️ [개발 Notion](https://www.notion.so/c41fdae24aa04979a055302ab590d1fe?pvs=21)
 
 <h3>Skills</h3>
