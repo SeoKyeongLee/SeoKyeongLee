@@ -23,7 +23,7 @@
 </div>
 
 <h3>Project</h3>
-<img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white">깃허브
+<img src="https://img.shields.io/badge/100000?style=for-the-badge&logo=github&logoColor=white">깃허브
 
 
 
