@@ -23,7 +23,7 @@
 </div>
 
 <h3>Project</h3>
-응급실 혼잡도 분석을 통한 의료 서비스 극대화<br>
+<h4>응급실 혼잡도 분석을 통한 의료 서비스 극대화</h4><br>
 👨‍💻깃허브: https://github.com/SeoKyeongLee/Project.git
 
 
