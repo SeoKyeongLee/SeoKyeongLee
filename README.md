@@ -24,7 +24,7 @@
 
 <h3>Project</h3>
 응급실 혼잡도 분석을 통한 의료 서비스 극대화
-<img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white"><p></p>
+<img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white"><p>https://github.com/SeoKyeongLee/Project.git</p>
 
 
 
