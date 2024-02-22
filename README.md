@@ -11,7 +11,7 @@
 🖥️ [개발 Notion](https://www.notion.so/c41fdae24aa04979a055302ab590d1fe?pvs=21)
 
 <h3>Skills</h3>
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 
 
