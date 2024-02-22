@@ -1,5 +1,5 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9CACC,100:8DA4D0&height=180&section=header&text=Hello!%20I'm%20SeoKyeong&fontSize=32&fontColor=ffffff" />
-<h2>신입 백엔드 개발자, 이서경 입니다.</h3>
+<h2>성장하는 개발자, 이서경 입니다.</h3>
 
 <h3>🌟 Backend Developer</h3>
 </div>
