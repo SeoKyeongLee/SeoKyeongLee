@@ -1,7 +1,7 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9CACC,100:8DA4D0&height=180&section=header&text=Hello!%20I'm%20SeoKyeong&fontSize=32&fontColor=ffffff" />
 <h2>성장하는 개발자, 이서경 입니다.</h3>
 
-//<p>🌟 Backend Developer<p>
+<!-- <p>🌟 Backend Developer<p> -->
 </div>
 <h3>Contact Me</h3>
 ✉️ seoia1029@hanmail.net<br>
